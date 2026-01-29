@@ -1,5 +1,5 @@
 # 👋 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F7E7CE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ashwini+Shinde+🌟;Creative+Developer+%26+Innovator;Turning+Ideas+into+Reality+✨" alt="Animated Typing Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F7E7CE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ashwini+Shinde+🌟;Creative+Developer+%26+Innovator;Turning+Ideas+into+Reality+✨" >
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving Hand Animation">
 </div>
