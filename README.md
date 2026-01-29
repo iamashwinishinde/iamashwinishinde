@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=D1F7FF&center=true&vCenter=true&width=500&lines=BTech+in+Computer+Science+%26+Design;METIAN+%7C+Developer+%26+Designer;Building+Solutions+That+Inspire" alt="Animated Typing Subheader">
+
 </div>
 
 ---
